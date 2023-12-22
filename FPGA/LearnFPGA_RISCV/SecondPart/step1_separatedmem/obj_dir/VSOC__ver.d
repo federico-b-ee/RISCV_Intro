@@ -1,0 +1,1 @@
+obj_dir/VSOC.cpp obj_dir/VSOC.h obj_dir/VSOC.mk obj_dir/VSOC__Slow.cpp obj_dir/VSOC__Syms.cpp obj_dir/VSOC__Syms.h obj_dir/VSOC__ver.d obj_dir/VSOC_classes.mk  : /usr/bin/verilator_bin /usr/bin/verilator_bin Vr_ALU.v Vr_CLockDivider.v Vr_RV32I_ISA.v Vr_RV32I_Processor.v Vr_corescore_emitter_uart.v step1.v 
