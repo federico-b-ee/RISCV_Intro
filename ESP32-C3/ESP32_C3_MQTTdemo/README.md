@@ -44,15 +44,15 @@ The Docker image was used to test NodeRED.
 
 ## Config
 
-![NodeRED_Config](/img/Config.png)
+![NodeRED_Config](img/Config.png)
 
 ## Block Diagram
 
-![NodeRED_BLockDiagram](/img/BD.png)
+![NodeRED_BLockDiagram](img/BD.png)
 
 ## Dashboard
 
-![NodeRED_Dashboard](/img/DB.png)
+![NodeRED_Dashboard](img/DB.png)
 
 
 # Resources
